@@ -1,0 +1,7 @@
+{
+  "name": "eslint-plugin-prettier",
+  "version": "^5.2.6",
+  "license": "MIT",
+  "repository": "git+https://github.com/prettier/eslint-plugin-prettier.git",
+  "homepage": "https://github.com/prettier/eslint-plugin-prettier#readme"
+}

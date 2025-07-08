@@ -1,0 +1,7 @@
+{
+  "name": "playwright",
+  "version": "^1.28.0",
+  "license": "Apache-2.0",
+  "repository": "git+https://github.com/microsoft/playwright.git",
+  "homepage": "https://playwright.dev"
+}

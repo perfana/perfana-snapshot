@@ -1,0 +1,7 @@
+{
+  "name": "mongo-leader",
+  "version": "^1.0.87",
+  "license": "MIT",
+  "repository": "git+https://github.com/andrewmolyuk/mongo-leader.git",
+  "homepage": "https://github.com/andrewmolyuk/mongo-leader#readme"
+}

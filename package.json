@@ -1,0 +1,29 @@
+{
+  "name": "perfana-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "LOCAL_PLAYWRIGHT_PATH=/home/daniel/workspace/perfana-snapshot/create-snapshots/puppeteer/grafana-snapshot.js MONGO_URL=mongodb://mongo1:27011,mongo2:27012,mongo3:27013/perfana?replicaSet=rs0  nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "lodash": "^4.17.21",
+    "meteor-random": "0.0.3",
+    "mongo-leader": "^1.0.87",
+    "mongodb": "^3.6.3",
+    "mongodb-queue": "^4.0.0",
+    "node-fetch": "^2.6.9",
+    "playwright": "^1.52.0",
+    "workerpool": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.6",
+    "prettier": "^3.5.3"
+  }
+}

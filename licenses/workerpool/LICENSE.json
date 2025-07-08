@@ -1,0 +1,7 @@
+{
+  "name": "workerpool",
+  "version": "^6.2.0",
+  "license": "Apache-2.0",
+  "repository": "git://github.com/josdejong/workerpool.git",
+  "homepage": "https://github.com/josdejong/workerpool"
+}
