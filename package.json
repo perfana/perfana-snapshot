@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "meteor-random": "0.0.3",
     "mongo-leader": "^1.0.87",
     "mongodb": "^3.6.3",
